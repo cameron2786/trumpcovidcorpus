@@ -1,10 +1,10 @@
-(25:38)
+<25:38>
 I just want to give you a very quick update on the…
-(25:43)
+<25:43>
 My name is Dr. Tony Fauci. I’m the director of the National Institute of Allergy and Infectious Diseases at NIH. Just a very quick update on the counter measure development in the form of vaccines and therapeutics, I had told this audience at a recent press briefing that we have a number of vaccine candidates and one prototype, one to give you a feel for the timeframe of the vaccine, and what its impact might be now and in subsequent years is that I told you we would have a vaccine that we would be putting into trials to see if it’s safe, and if it induces a response that you would predict would be protective in about three months.
-(26:21)
+<26:21>
 I think it’s going to be a little bit less than that. It’s probably going to be closer to two months. That would then take about three months to determine if it’s safe, and immunogenic, which gives us six months. Then you graduate from a trial, which is phase one of 45 people to a trial that involves hundreds, if not low, thousands of people to determine efficacy. At the earliest an efficacy trial would take an additional six to eight months. Although this is the fastest we have ever gone from a sequence of a virus to a trial, it still would not be any applicable to the epidemic unless we really wait about a year to a year and a half.
-(27:05)
+<27:05>
 Now, that means two things. One, the answer to containing is public health measures. We can’t rely on a vaccine over the next several months to a year. However, if this virus, which we have every reason to believe it is quite conceivable that it will happen will go beyond just a season and come back and recycle next year. If that’s the case, we hope to have a vaccine, and then, finally and briefly, therapeutics. There are a number of antiviral drugs that are being tested. A few days ago we initiated a randomized controlled trial of a drug called Remdesivir, which has antiviral activity in vitro in an animal model.
-(27:47)
+<27:47>
 The good news about that is that it’s a trial that’s randomized to either placebo or standard of care, and drug and standard of care, which means that we will know reasonably soon whether it works and if it does, we will then have an effective therapy to distribute. Thank you.
