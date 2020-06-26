@@ -1,0 +1,32 @@
+<00:29>
+The novel coronavirus and the Chinese to their credit made that sequence information available right away. Ours coronavirus experts here at CDC used that sequence information to design a test so that we would be able to detect the virus, even though at that time there were no cases in the US and we had no samples of the virus because we had no clinical material.
+<00:51>
+And so we quickly went from designing the test and the materials were made in these laboratories. The quality control is done here, and then our scientists use that to validate that it would work against what they could make as the coronavirus using just the sequence information, but importantly so that it would not detect other things because we want a positive to only be for the coronavirus, not for other kinds of viruses that create similar respiratory samples.
+<01:25>
+And then in relatively short order, as the information coming out of China indicated that this was more serious than was originally thought, originally seven cases, we stood up our incident management system here at CDC so that we would have all the right components together; the epidemiology, the laboratory, the communications, the policy funds, and then once it became clear that it was even more serious, that’s when we started to work with our colleagues at FDA to say, we need to make this test available to the larger public health laboratory community, and so worked with FDA to then-
+<02:02>
+To get what we call emergency use authorization so that we could distribute the test to our, originally to our public health laboratory counterparts. And now working with the commercial manufacturers, we’re in position to scale up that production beyond what we can do with our own facility here so that there’s the capacity to test more and more Americans and we are as we work today, to qualify more of those materials to go out.
+<02:32>
+And it’s important to note that at no time during this response has CDC ever denied a request that came from a public health official, either state or local, to test a patient. So all the patients who needed to be tested, in the opinion of the public health officials, have been tested.
+<02:52>
+Yeah. All of our state labs now have the ability to test for this virus-
+<03:01>
+Dr. Steve Monroe.
+<03:35>
+By the end of the week hopefully, we’ll be-
+<03:39>
+And the following week will be-
+<06:46>
+So we did learn shortly after redistributed the first batch of our tests to the some of the state health labs that there was an issue with one component of the test. And so we quickly put together a team to try to figure out what that issue was and we suggested that people not test until we could sort that out. But what we have are three different signatures that we test for. And we, in working with FDA colleagues, we identified that two of those were sufficient to have a positive conclusive test. And so we’ve moved forward now with testing with just the two signatures.
+<07:21>
+This is something that could easily happen where we’re just against starting from scratch with sequence information, building a test rather rapidly. We did small scale testing here before rolling it out because our goal was to get it out to the public health labs as quickly as possible.
+<07:43>
+But we started with our tests probably at the same time the Germans and the other Italians and the other groups that have worked with WHO were developing their tests. Nobody could start with test development until the sequence information was made available by the Chinese.
+<09:45>
+Right. So early on it and when we submit our tests to the FDA for emergency use authorization, we have to specify what are the conditions under which a person should be tested. And certainly at the beginning, we wanted it to be clear that all of the cases at that time were associated with travel to one of the endemic areas or other things like that.
+<10:07>
+And so the criteria in the package insert were strict about who could be tested because we didn’t want just a lot of people with compatible symptoms who had no history of exposure to be tested. But as was stated, there was never a time when a public health official contacted CDC to ask testing and it was not a done, even if they didn’t quite meet the strict definition <crosstalk 00:10:34>.
+<10:43>
+Right. At the very beginning, they were only testing people who had a direct contact at the seafood market in Wuhan.
+<32:09>
+Yeah, just one point of clarification, the South Koreans I recall, they’re doing drive through sample collection, so this is not like a pregnancy test where you drive through, they take a swab, and they tell you on the spot if it’s positive or negative. They’re using that as a way to collect samples from a large number of people, and then they’re using the high throughput testing platforms in order to do the testing.

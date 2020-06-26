@@ -1,0 +1,590 @@
+Steve Monroe: <00:29>
+The novel coronavirus and the Chinese to their credit made that sequence information available right away. Ours coronavirus experts here at CDC used that sequence information to design a test so that we would be able to detect the virus, even though at that time there were no cases in the US and we had no samples of the virus because we had no clinical material.
+
+Steve Monroe: <00:51>
+And so we quickly went from designing the test and the materials were made in these laboratories. The quality control is done here, and then our scientists use that to validate that it would work against what they could make as the coronavirus using just the sequence information, but importantly so that it would not detect other things because we want a positive to only be for the coronavirus, not for other kinds of viruses that create similar respiratory samples.
+
+Donald Trump: <01:20>
+Does everybody understand that?
+
+Speaker 1: <01:21>
+Then can we ask some questions please?
+
+Donald Trump: <01:23>
+Yeah, sure. Just one second. Let him finish up.
+
+Steve Monroe: <01:25>
+And then in relatively short order, as the information coming out of China indicated that this was more serious than was originally thought, originally seven cases, we stood up our incident management system here at CDC so that we would have all the right components together; the epidemiology, the laboratory, the communications, the policy funds, and then once it became clear that it was even more serious, that’s when we started to work with our colleagues at FDA to say, we need to make this test available to the larger public health laboratory community, and so worked with FDA to then-
+
+Donald Trump: <02:01>
+Just tell them about how have you done with the testing <crosstalk 00:02:03>-
+
+Steve Monroe: <02:02>
+To get what we call emergency use authorization so that we could distribute the test to our, originally to our public health laboratory counterparts. And now working with the commercial manufacturers, we’re in position to scale up that production beyond what we can do with our own facility here so that there’s the capacity to test more and more Americans and we are as we work today, to qualify more of those materials to go out.
+
+Steve Monroe: <02:32>
+And it’s important to note that at no time during this response has CDC ever denied a request that came from a public health official, either state or local, to test a patient. So all the patients who needed to be tested, in the opinion of the public health officials, have been tested.
+
+Donald Trump: <02:50>
+They have plenty of materials is what you’re saying?
+
+Steve Monroe: <02:52>
+Yeah. All of our state labs now have the ability to test for this virus-
+
+Donald Trump: <02:56>
+And they have had. Doctor, do you want to make a little statement?
+
+Speaker 2: <03:00>
+What was your name again sir?
+
+Steve Monroe: <03:01>
+Dr. Steve Monroe.
+
+Robert Redfield: <03:04>
+Well, I think I first I want to thank you for your decisive leadership in helping us put public health first. I also want to thank you for coming here today and encouraging and bringing energy to the men and women that you see that work every day to try to keep America safe. So I think that’s the most important thing I want to say sir.
+
+Donald Trump: <03:22>
+Thank you, I appreciate it, and the whole situation is … The testing has been amazing actually, what they’ve been able to produce in such a short period of time. You had mentioned four million tests before? Four million?
+
+Steve Monroe: <03:35>
+By the end of the week hopefully, we’ll be-
+
+Alex Azar: <03:38>
+The following, next week.
+
+Steve Monroe: <03:39>
+And the following week will be-
+
+Donald Trump: <03:40>
+What number will it be?
+
+Alex Azar: <03:41>
+Up to four million tests available to the United States by the end of next week. We’ve got commercial labs are getting validated as we speak. By the end of this weekend, we’ll, as promised, have enough testing that CDC has produced for to test 75000 people is already out and then enough tests for another million tests to be done and that’s … Most of that is shipped. The last lots are here being validated by Dr. Monroe’s team as we speak.
+
+Robert Redfield: <04:09>
+The one thing I would like to add, the purpose of all of this as Dr. Monroe said, is to have the capacity to detect the unknown. These labs developed tests for Zika, SARS, MERS, and now this coronavirus. And I think it really is remarkable the capacity we had here. Once we got the sequence, I think this lab team had a functional test in about seven days that they then worked with the FDA to make sure it was regulated. I think it’s … That’s really what we do.
+
+Donald Trump: <04:38>
+And they started working when they saw there was a problem in China, that was many weeks ago. So they saw there was something going on in China long before anybody even heard of it. That was actually before it was even in the print. They heard there was a problem in China. That’s when they started working on this and that’s pretty incredible. That’s why we’re in good shape.
+
+Speaker 1: <04:59>
+Sir, is coronavirus contained in the United States?
+
+Donald Trump: <04:59>
+Doctor?
+
+Robert Redfield: <05:04>
+Yeah. I think at this point again, and we’ve said this before, the secretary can add, the overall risk to the American public does remain low. And again I think we owe a lot to the decisive decisions initially to have travel restrictions and a number of areas of screening in airports. And then the most important is to get the public health community to do the early case recognition, isolation and contact <inaudible 00:05:28>, which again, the fact that we now had a test, allowed us to do that a lot more effectively if we didn’t have a test.
+
+Robert Redfield: <05:35>
+We do have some areas where there’s significant community transmission now. Obviously we’ve seen that in the Seattle area and we’ve seen it in parts of California. We’re working hard with the local state health departments and those groups to continue to try to control this infection in that area. I think as the president said, or maybe the secretary, we still have only around 200 cases that we’ve diagnosed in the United States. We’re going to see more cases because we’re getting more diagnostics out there. But I would say that again, what I said before that at the present time, the general risk to the American public remains low.
+
+Robert Redfield: <06:12>
+We’re going to concentrate and help those communities though that are now fighting the battle. Like in the state of Washington, some of you were there I think the other day when we were out there so.
+
+Reporters: <06:21>
+I have a question for Dr. Monroe please. Would you admit that the CDC did have problems with the testing? You say that there were people who, that these health officials never had to request <inaudible 00:06:32> the test but you set such strict guidelines so people were coming in and saying they couldn’t get the test. And we talked to dozens of people that have contacted us saying they couldn’t get the test even though they had the symptoms because they didn’t meet your criteria because your tests were faulty.
+
+Steve Monroe: <06:46>
+So we did learn shortly after redistributed the first batch of our tests to the some of the state health labs that there was an issue with one component of the test. And so we quickly put together a team to try to figure out what that issue was and we suggested that people not test until we could sort that out. But what we have are three different signatures that we test for. And we, in working with FDA colleagues, we identified that two of those were sufficient to have a positive conclusive test. And so we’ve moved forward now with testing with just the two signatures.
+
+Steve Monroe: <07:21>
+This is something that could easily happen where we’re just against starting from scratch with sequence information, building a test rather rapidly. We did small scale testing here before rolling it out because our goal was to get it out to the public health labs as quickly as possible.
+
+Reporters: <07:42>
+But you didn’t have to start from scratch. You could have just used the WHO’s test. Why did you choose to start from scratch when <inaudible 00:07:42> the process?
+
+Steve Monroe: <07:43>
+But we started with our tests probably at the same time the Germans and the other Italians and the other groups that have worked with WHO were developing their tests. Nobody could start with test development until the sequence information was made available by the Chinese.
+
+Reporters: <07:57>
+Right, but there’s didn’t have any faults.
+
+Robert Redfield: <07:59>
+I would like-
+
+Reporters: <08:00>
+<crosstalk 00:08:00> so what do we <crosstalk 00:08:00>?
+
+Robert Redfield: <08:00>
+I’d like to make one thing clear.
+
+Reporters: <08:01>
+Please.
+
+Robert Redfield: <08:02>
+When this test was developed in really very rapid time, it was first offered here at CDC. So all the public health labs of this nation could use CDC as we do when any new disease comes and we can help them understand if this new pathogen is in that individual. That was available as soon as our test was approved by the FDA. Not a faulty test, a very accurate test, but the challenge was you had to send the sample here to CDC. That’s the same test we use today. So no state lab never had no access. They always have the ability to send it here.
+
+Reporters: <08:39>
+But they had to send it here because there were false readings.
+
+Robert Redfield: <08:43>
+No, they had to send it here because that’s how we started it. Then we developed the test to expand and in the manufacturing there was … And after that, we shipped it out to the states to see if they could verify did it work. We found that in some of the States that didn’t work, we figured out why. I don’t consider that a fault. I consider that doing quality control. I consider that success, making sure this test was going to perform out there with the same proficiency that it performed here.
+
+Donald Trump: <09:10>
+And now it’s all performing perfectly.
+
+Robert Redfield: <09:11>
+Yes sir.
+
+Reporters: <09:11>
+And President Trump, are you confident in the CDC?
+
+Donald Trump: <09:12>
+Just so you understand, now it’s all performing perfect.
+
+Reporters: <09:15>
+And do you have confidence in the CDC <crosstalk 00:09:17>?
+
+Donald Trump: <09:18>
+They’re fantastic people. These are fantastic people. Now it’s performing very well and it has been performing very well. And as you said, you had two of the three that worked perfectly and that’s all you need is two of the group. In fact, you could have one of the three and it would work. So we had two of the three but now it’s performing perfectly in all cases.
+
+Reporters: <09:35>
+<inaudible 00:09:36>-
+
+Alex Azar: <09:36>
+Dr. Monroe, could you explain on the testing criteria how that compares? You’ve explained to the president, how they compared to China and international standards.
+
+Steve Monroe: <09:45>
+Right. So early on it and when we submit our tests to the FDA for emergency use authorization, we have to specify what are the conditions under which a person should be tested. And certainly at the beginning, we wanted it to be clear that all of the cases at that time were associated with travel to one of the endemic areas or other things like that.
+
+Steve Monroe: <10:07>
+And so the criteria in the package insert were strict about who could be tested because we didn’t want just a lot of people with compatible symptoms who had no history of exposure to be tested. But as was stated, there was never a time when a public health official contacted CDC to ask testing and it was not a done, even if they didn’t quite meet the strict definition <crosstalk 00:10:34>.
+
+Alex Azar: <10:34>
+I understand even China had a geographic travel restriction on who they tested and they were the epicenter. Is that right Dr. Monroe?
+
+Steve Monroe: <10:43>
+Right. At the very beginning, they were only testing people who had a direct contact at the seafood market in Wuhan.
+
+Speaker 3: <10:48>
+Is there a chance that the limited testing means that the numbers are low and the public has been misled about how widespread this is?
+
+Robert Redfield: <10:58>
+Yeah. We have been diagnosing cases here from the beginning originally linked to travel, associated with very aggressive public health measures of contact tracing. So you might find one confirmed case and you might evaluate another 300 people all right? And as we went out to do that, the only contacts initially from the beginning that we found were two spouses of spouses who came back from Wuhan and all the other contacts were negative. Over time, when the state of Washington sent a sample from an individual, they made the first diagnosis. That individual was also a traveler, but clearly as they continued to diagnose more, we found people that had no risk through travel and this is what we call community spread.
+
+Robert Redfield: <11:49>
+So we do have community spread. We are continuing to look. We are enhancing our surveillance. We’re blending surveillance for coronavirus into our flu surveillance system. But at this point, I think we have isolated a number of clusters, but it’s not as if we have multiple, multiple hundreds and hundreds of clusters around the United States.
+
+Speaker 4: <12:09>
+<inaudible 00:12:09>.
+
+Donald Trump: <12:11>
+I do think what’s happening though is you have people that are sick but they don’t go to the hospital or they’re not very sick. It’s a more minor case and it could be of this virus. But we have a lot of people that aren’t going to the hospital so we’re not seeing those people. And if you did see those people, I believe, <inaudible 00:12:29> service, the statistics actually become much better because they heal, they get better. They don’t see a doctor, they don’t see a hospital. They have a problem, they have the sniffles or a cold or <inaudible 00:12:40>, some of the symptoms, and over a period of time, a short period of time or even a longer period of time, they get better.
+
+Donald Trump: <12:47>
+If you look at that, then all of a sudden you’re coming into a much lower category of risk in terms of death type risk. Because I think a lot of people aren’t going to the doctors, a lot of people aren’t going to hospitals and so you’re not seeing those people.
+
+Alex Azar: <13:01>
+And Mr. President, you wouldn’t have seen this. But actually today, Dr. Fauci published in the New England Journal of Medicine, a revised estimate of fatality counts very much consistent with what the president was saying, which is the WHO numbers are just a math problem. This many people died, this many were diagnosed. But if you then extrapolate to from the number of diagnosed to how many likely cases there are that never came to the doctor or hospital or got tested, Dr. Fauci’s paper in the New England Journal says he thinks it’s less than 1% which is I think word for word Mr. President, what you were saying.
+
+Reporters: <13:36>
+Can I just ask one question about containment? You’re saying that you have <crosstalk 00:13:40> seen these clusters, but from last Friday to today we’ve gone from something like 57 or 59 cases, in seven days we have 200, and we even haven’t had the testing to see if there are more than that. So now we’re actually getting the testing, don’t you think it’s likely there are a lot more people out there who are going to come and actually be sick?
+
+Robert Redfield: <14:02>
+I think there’s no doubt we’re going to see more community cases. And I just want to say, and there’s no doubt that the public health system of the United States is enhancing surveillance in a variety of ways to try to really understand is there any hidden pockets. That’s all in process, but I will say everyone has been aggressively using the single case they diagnosed then to go look at all the contacts to try to begin to understand this. This is how the nursing home is.
+
+Robert Redfield: <14:34>
+A lot of infections in Seattle and tragically, and they’re all in our prayers, a number of deaths for that nursing home. So I just want to assure the American public that we are enhancing our surveillance, not just CDC, but the entire public health system of this nation, so that we will have very accurate eyes on where this virus is.
+
+Speaker 5: <14:53>
+Obviously Mr. President we’ve talked a lot about the health ramifications and of course it’s very important, but there are also economic ramifications. The stock market <inaudible 00:15:03> at the end of the day, then the travel industry, airlines, cruise ships, their companies, travel companies have been hit especially hard. Can you give us a sense of what your considering to help offset <inaudible 00:15:13>?
+
+Donald Trump: <15:16>
+Well, we’re considering different but we’re also considering the fact that last year you had approximately 36000 deaths due to what’s called the flu. When I first heard this four or five, six weeks ago, when I was hearing the amount of people that died of the flu, I was shocked to hear anywhere from 27000 to 70000 or 77000, and I guess they said in 1990, that wasn’t particular very bad. It was higher than that. As of the time I left the plane with you, we had 240 cases, that’s at least what was on a very fine network known as Fox News. I know you love it, but that’s what I happened to be watching. And how was the show last night? Did it get good ratings by the way?
+
+Speaker 5: <16:00>
+<inaudible 00:00:16:00>.
+
+Donald Trump: <16:02>
+Oh really? I heard it broke <inaudible 00:16:03> records but maybe-
+
+Peter: <16:03>
+I <inaudible 00:16:00>
+
+Donald Trump: <16:03>
+Oh, yeah. Yeah, I heard you broke all <inaudible 00:16:00> records, but maybe that’s wrong. That’s what they told me. I don’t know. I can’t imagine that. But what happened is if you look at the number, the time we left, it was 240 cases, Peter, and 11 deaths. That’s what it has been. You look at throughout the world, I mean other countries have.. South Korea and Italy, and in particular, China, have many.
+
+Donald Trump: <16:24>
+Now, I also hear their numbers are getting much better in those places and I’ve heard their numbers are getting much better in China, but I hear their numbers are getting much in Italy, et cetera, et cetera. But when I hear…
+
+Donald Trump: <16:34>
+So we have 240 cases, 11 deaths, everything is too much and it’s true. I don’t want 11 deaths. I don’t want any deaths. Over the last long period of time, when people have the flu, you have an average of 36,000 people dying. I never heard those numbers. I would have been shocked. I would have said does anybody die from the flu? I didn’t know people died from the flu. 36,000 people died. 27,000 to 77,000, that’s your flu. And again, you had a couple of years where it was over 100,000 people died from the flu.
+
+Donald Trump: <17:09>
+So I start to say I wonder what’s going on here. Now, if you look at the percentage, the percentage for the flu is under 1%, but this could also be under 1% because many of the people that aren’t that sick don’t report, so they’re not putting those people in there, and you’re smiling when I say that.
+
+Donald Trump: <17:24>
+Who are you from, by the way? Which?
+
+Reporters: <17:25>
+I’m from CNN.
+
+Donald Trump: <17:25>
+You are? I don’t watch CNN, that’s why I don’t recognize you.
+
+Reporters: <17:31>
+Oh, okay. Well, nice to meet you.
+
+Donald Trump: <17:32>
+<crosstalk 00:17:32> I don’t watch it. I don’t watch CNN because CNN is fake news. Go ahead.
+
+Speaker 6: <17:36>
+Maybe just address the economic piece though because there is obviously a lot of <crosstalk 00:17:39>
+
+Donald Trump: <17:39>
+Of course it’s an effect. It is an effect. Now, you know if you know anything about me, I like when people happen to stay in the United States and spend their money in the United States. So I think people are staying in the United States more, they’re going to spend their money in the United States, <inaudible 00:17:52> this is ended. It will end. People have to remain calm.
+
+Donald Trump: <17:57>
+I do think that if you look at the numbers and you look at the numbers from other years or on other things and you look at these numbers, it’ll be interesting to see what you find and statistics will soon be coming out. But there was a big statistic today that it’s way under 1%. It said one-tenth of 1% in one case, but nobody really knows. We’ll be able to find out.
+
+Donald Trump: <18:18>
+The problem is for people to get better that don’t see a doctor or don’t go to a hospital, those people get better if they were in the numbers. The numbers would look much better in terms of death rate.
+
+Speaker 6: <18:27>
+Are you concerned there’ll be some bankruptcies <crosstalk 00:18:30>
+
+Donald Trump: <18:30>
+Oh, I think you’ll have other things. The amazing thing, and look at the job numbers today. We had a tremendous job number today.
+
+Donald Trump: <18:37>
+We had a number that when you add last month’s number, which was a correction of plus 80,000 jobs, wasn’t it a 350,000 jobs number today? That was shocking. I was watching a particular network and they said on the net, but they’re pros, they said, “Wow, these are unbelievable numbers.” They were shocked by the numbers. Over 350,000, when you add last month’s correction. Peter?
+
+Peter: <19:02>
+<inaudible 00:19:02> all these organizations are canceling events <inaudible 00:19:05> study abroad programs. All the organizations and businesses that are canceling conventions and meetings and travel <inaudible 00:19:12> within the United States, are they overreacting or are they taking the right precautions?
+
+Donald Trump: <19:17>
+I think it’s fine if they want to do it. I don’t think it’s an overreaction, but I wouldn’t be generally inclined to do it. I really wouldn’t be. Now, it depends on what country you’re talking about. If you’re talking about if they’re going to another country, or are you talking about within the United States?
+
+Peter: <19:30>
+Even within the United States, a lot of <crosstalk 00:19:31>
+
+Donald Trump: <19:33>
+Yeah, they have to feel comfortable. People have to feel comfortable to have a good time. If you look at do I want to go to China, do I want to go to certain parts of Italy, do I want to go to South Korea, right now? That’s a different decision. But you have some parts of the world and some parts, many, most parts of the country.
+
+Donald Trump: <19:49>
+In this big vast land of ours, this great country of ours, we have 240 cases. Most of those people are going to be fine. A vast majority are going to be fine. We’ve had 11 deaths and they’ve been largely old people who were susceptible to what’s happening. Now, that would be the case, I assume, with a regular flu too. If somebody is old and in a weakened state or ill, they’re susceptible to the common flu too. They would tell me just now that the common flu kills people and old people is sort of the target.
+
+Speaker 7: <20:25>
+And also, the very young.
+
+Donald Trump: <20:26>
+And the young. Now, the interesting thing here, it’s very interesting. The interesting thing here is that the young seem to be doing unbelievable well. Actually, better than they do with the flu. Young people and very young people are doing very well, which is another thing I guess they’re trying to figure out.
+
+Reporters: <20:42>
+And Mr. <crosstalk 00:20:43> you were shaking a lot of hands today, taking a lot of close pictures. Are you protecting yourself at all?
+
+Donald Trump: <20:47>
+Not at all.
+
+Reporters: <20:47>
+How are you staying away from germs?
+
+Donald Trump: <20:49>
+No, not at all. Not at all. I’m a person that was never big on a handshaking deal throughout my life. They used to criticize me for it, or laugh about it or have fun with it. But if you’re a politician, like I walk in and the doctors have their hands out, Hello, sir, how you?” If you don’t shake hands, they’re not going to like you too much, and I guess that’s my business. I never thought I’d be a politician. I guess I’m a politician, but the fact is I feel very secure. I feel very secure.
+
+Speaker 8: <21:16>
+Can anybody tell us what happened to you last night and today that <inaudible 00:21:19> canceled <inaudible 00:21:20> what happened here <crosstalk 00:21:22>
+
+Donald Trump: <21:22>
+I was told that one person maybe that works someplace in the building that I’m not even sure what level, but that one person may have had the virus. And therefore, they said, sir, because of the fact that one person may have had the… It’s a big building with a lot of great scientists, frankly. One person had the virus, and that turned out to be a negative report. That turned out to be negative, and so they called me but it was already canceled. But this morning, I said, wait a minute, I’m going to Tennessee. We’re going down to Florida to have a meeting on Monday as you know, and so we’re going to Florida. I’d love to stop, the CDC. That was a big deal with Secret Service, but they’re fantastic and they worked it out, so we stopped. But it was a report, and the person, it was a negative diagnosis.
+
+Speaker 9: <22:09>
+Mr. President <inaudible 00:22:10> on Monday has been canceled because of the coronavirus and you were supposed to speak?
+
+Donald Trump: <22:13>
+No, we had another big deal. There were two of them, and there was a thing that we recommended because there was a lot of people, and we recommended that they let them cancel that one. But there was another one in a similar area.
+
+Speaker 9: <22:26>
+Have you considered not having campaign rallies? Like you <crosstalk 00:22:30>
+
+Donald Trump: <22:30>
+No, I haven’t.
+
+Speaker 9: <22:30>
+… Michigan, this coming week <crosstalk 00:22:32>
+
+Donald Trump: <22:32>
+Well, I’ll tell you what, I haven’t had any problem filling them. We just had one in North Carolina, South Carolina, all over the place, and we have tens of thousands of people standing outside the arenas. So we haven’t had…
+
+Reporters: <22:44>
+Is there a risk if there’s that many people close together?
+
+Donald Trump: <22:45>
+It doesn’t bother me at all, and it doesn’t bother them at all.
+
+Speaker 7: <22:50>
+What should be done about that cruise ship that’s <crosstalk 00:22:53>
+
+Donald Trump: <22:53>
+Well, that’s a big question. So I was just on the phone with Vice President and they’re trying to make a decision. Frankly, if it were up to me, I would be inclined to say leave everybody on the ship for a period of time and you use the ship as your base, but a lot of people would rather do it a different way. They’d rather quarantine people on the land. Now, when they do that, our numbers are going to go up. Our numbers are going to go up. The 240 is going to go up, and I assume that perhaps it’s a very big ship with thousands of people on it, including the sailors and the crew. You’re talking about a massive number of people. That is a big ship.
+
+Donald Trump: <23:31>
+If it were up to me, I would do it that way. A lot of people think we should do it the other way. They’re Americans. They’re mostly Americans, and we have to take care of Americans.
+
+Speaker 7: <23:40>
+The other way being take them off the ship <crosstalk 00:23:41>
+
+Donald Trump: <23:41>
+Bring them off the ship.
+
+Donald Trump: <23:43>
+No, they’ll be under quarantine and they’ll be tested very carefully. Everyone is tested very carefully. Somebody said today… In fact, the Governor said a story that a friend of yours, Governor Kemp? A friend of yours was saying how tough it is to get into the United States with all of the testing. Maybe you’d like to say.
+
+Brian Kemp: <24:01>
+Yes. So John Seldon, who is running the general manager of Atlanta International-Hartsfield Airport, he is on our coronavirus taskforce here and he did a great job yesterday in our press conference, explaining the procedures that the President and others had put in place to make sure that everybody that’s coming from Northern Italy and South Korea are being screened multiple times before they get on the airplane. I think that just gives people great confidence as they’re traveling through all the airports across the country that the people that are coming in have been screened from those problem areas. The <inaudible 00:24:40> and border people are checking them as well and having conversations. I think they may have tested one person in the Atlanta Airport. They have over 300,000 people go through there a day. That test was negative and so it is safe to travel right now.
+
+Brian Kemp: <24:55>
+People just need to be very careful, do the things that the CDC and Dr. Redfield and Secretary Azar and the Vice President and his taskforce are telling people to do, and that’s keep your hands clean. Just be careful where you’re going. If you’re sick, don’t go to the airport. Don’t go to the sporting event.
+
+Donald Trump: <25:13>
+But he was very impressed with how hard it is to get on the plane. He was tested two times, and then one person said three times, just to come in. We’re watching it very closely. The people are doing a good job and instead of being negative, you should be positive. These scientists are doing a phenomenal job with something that came from out of nowhere, a very short time ago.
+
+Reporters: <25:34>
+I’m not trying to be negative. I’m trying to help people understand when they can get the test, and I want to ask Secretary Azar because he said most of them ahead shipped out. Can you tell me exactly how many people as of right now can be tested? You told me yesterday, you thought it would be 475,000. How many kits have been shipped, and how many people do you think can we test <crosstalk 00:25:51>
+
+Alex Azar: <25:51>
+Well, you got the CDC Director, who is doing it.
+
+Reporters: <25:54>
+Okay, great. Okay, thanks. Perfect.
+
+Alex Azar: <25:54>
+Why don’t we have Dr. Redfield talk to you? You may believe him. You won’t believe me. Why don’t you talk to Dr. Redfield? No.
+
+Donald Trump: <25:57>
+It’s all right. It’s all right.
+
+Robert Redfield: <26:00>
+We continue to send… Excuse me.
+
+Brian Kemp: <26:02>
+No, no. Yeah. <crosstalk 00:26:03>
+
+Robert Redfield: <26:03>
+I’ll stand right here.
+
+Brian Kemp: <26:03>
+You’re all right.
+
+Robert Redfield: <26:06>
+We continue. Our first responsibility, the CDC, as I said was to develop the eyes for the lab test. Second responsibility is to get that out to the public health community and we have now shipped out… I think it was enough to 75,000 people into the public health labs now?
+
+Donald Trump: <26:23>
+Anybody that wants a test can get a test. That’s what the bottom line is.
+
+Brian Kemp: <26:26>
+And I would just say that we started testing in our lab in Georgia, our Department of Public Health, yesterday, which is a day earlier. We thought it would be today, so we are actually testing today.
+
+Reporters: <26:35>
+Great.
+
+Robert Redfield: <26:36>
+And the second group was to get… How do you get tests into the clinical arena? Since our role was to get it in the public health arena, and the FDA, the Secretary, under his leadership was able to take the test that CDC developed and one of the companies said they want to develop it and sell it. And that’s what the Secretary referred to, that…
+
+Reporters: <26:57>
+Yeah <inaudible 00:26:58>
+
+Robert Redfield: <26:58>
+Yeah. And by the end of this week, they were supposed to have about a million, 1.2 million tests out.
+
+Alex Azar: <27:03>
+About a million. Yeah, a million tests. So they shipped 700,000 already, the remaining lots are actually being tested here. Dr. Monroe has got them as of, I think, 10:30 this morning, and they have to do the quality control. And then, if they pass, they ship.
+
+Donald Trump: <27:15>
+But I think importantly, anybody right now and yesterday, anybody that needs a test, gets a test. They’re there. They have the test, and the tests are beautiful. Anybody that needs a test, gets a test. If there’s a doctor that wants to test, if there is somebody coming off a ship like the big monster ship that’s out there, right now. Which, again, that’s a big decision, do I want to bring all those people on? People would like me to do that. I don’t like the idea of doing it, but anybody that needs a test can have a test.
+
+Donald Trump: <27:49>
+They’re all set. They have them out there. In addition to that, they’re making millions of more as we speak. But as of right now and yesterday, anybody that needs a test, that’s the important thing and the tests are all perfect, like the letter was perfect. The transcription was perfect, right? This was not as perfect as that, but pretty good.
+
+Robert Redfield: <28:11>
+I want to add. I want to add one. I want to add.
+
+Speaker 10: <28:13>
+Is South Korea <crosstalk 00:28:14>
+
+Donald Trump: <28:14>
+We’re handling it from South Korea. We’re testing that you can’t come in from South Korea unless they go through.
+
+Speaker 10: <28:18>
+But are they handling it better than we <crosstalk 00:28:20>
+
+Donald Trump: <28:21>
+I’d have to ask the doctors.
+
+Robert Redfield: <28:21>
+Before that, I just wanted to add one other thing to the availability of clinical tests. The Secretary and the Vice President, last week, brought together all of the major diagnostic companies that you all know so well. Labcorp, Quest, and asked them to come together as a group and they already formed a consortia to work together to use their capacity, which is really substantial, to bring this tests to doctors’ offices around our nation. And when they presented it, they felt that either by Monday, they’re going to begin to roll out this test now through Labcorp, through Quest.
+
+Robert Redfield: <29:02>
+So as the President said, the issue now is whether the clinicians believe that this is indicated in evaluating the patients that come to see them. It’s not going to be about the availability of the test. It’s going to be about the clinical judgment of the patient and the doctor, or the nurse practitioner to get this test.
+
+Reporters: <29:19>
+Can I clarify about the <crosstalk 00:29:21>
+
+Donald Trump: <29:24>
+And this is, by the way, the highest level test.
+
+Robert Redfield: <29:26>
+Yes.
+
+Reporters: <29:26>
+Could I clarify something?
+
+Donald Trump: <29:26>
+This is the highest level test anywhere.
+
+Reporters: <29:26>
+About the cruise ship, has a decision been made?
+
+Donald Trump: <29:34>
+That’s a very good question.
+
+Reporters: <29:35>
+And are u the final decider?
+
+Donald Trump: <29:37>
+From my… Yes. From my standpoint, I want to rely on people. I have great experts, including our Vice President who is working 24 hours a day on this stuff. They would like to have the people come off. I’d rather have the people stay, but I’d go with them. I told them to make the final decision. I would rather it because I like the numbers being where they are, I don’t need to have the numbers double because of one ship that wasn’t our fault, and it wasn’t the fault of the people on the ship either. It wasn’t their fault either, and they’re mostly Americans, so I can live either way with it. I’d rather have them stay on, personally, but I fully understand if they want to take them off. I gave them the authority to make the decision.
+
+Speaker 7: <30:22>
+Isn’t that putting preference over having more attractive numbers over having <crosstalk 00:30:28>
+
+Donald Trump: <30:27>
+No. No. No, I’m saying whatever it is, that takes precedence over the numbers. No. I like the numbers. I would rather have the numbers stay where they are. But if they want to take them off, they’ll take them off. But if that happens, all of a sudden your 240 is obviously going to be a much higher number and probably the 11 will be a higher number too.
+
+Speaker 7: <30:46>
+There must be some risk in leaving them on the ship, right?
+
+Donald Trump: <30:50>
+There is probably risk to both. Probably risk to both.
+
+Reporters: <30:57>
+Is there going to be a way for us to advance our test in the way that South Korea has? They have the drive-through testing now <crosstalk 00:31:02>
+
+Donald Trump: <31:02>
+We’re working very closely with South Korea.
+
+Reporters: <31:06>
+10,000 people a day?
+
+Donald Trump: <31:06>
+Yeah.
+
+Reporters: <31:06>
+And are we going to be <crosstalk 00:31:06> capacity?
+
+Donald Trump: <31:06>
+Well, we’re working closely with South Korea. They’re also in a much different position. They have a lot of people that are infected. We don’t. They’re in a much different position, but we are working very closely with South Korea. As you know, we’re allies, even though they’ve made much better trade deals in the past than we did. We’re allies with South Korea. You have heard that, right? And we’re working very closely with South Korea.
+
+Reporters: <31:27>
+Yeah. <crosstalk 00:31:28> capabilities
+
+Donald Trump: <31:29>
+And a lot of the testing is very similar testing, but they’re in a much different position than we… They have thousands of people and they’ve got some difficult right now, but we’re working very closely. In fact, they’re calling us, asking us and these people for advice.
+
+Alex Azar: <31:45>
+And if I… And please correct me, Doctors, if I’m wrong. If I understand correctly, South Korea is using a technology different than what we use in the United States in our public health labs, but that we do use in our commercial labs. The Labcorp, the Quests, the Roches, the Abbotts, and that’s exactly…
+
+Alex Azar: <32:03>
+For the Quest’s, the Roche’s, the Abbott’s, and that’s exactly what Dr. Redfield was saying. If we’d been able to get up and running right away that… Am I saying that correctly, Dr. Monroe?
+
+Steve Monroe: <32:09>
+Yeah, just one point of clarification, the South Koreans I recall, they’re doing drive through sample collection, so this is not like a pregnancy test where you drive through, they take a swab, and they tell you on the spot if it’s positive or negative. They’re using that as a way to collect samples from a large number of people, and then they’re using the high throughput testing platforms in order to do the testing.
+
+Reporters: <32:31>
+And that testing platform is what you’re saying is available through Quest and so it will likely be available starting Monday we think when they’re up and running.
+
+Robert Redfield: <32:39>
+And I think it’s important just to emphasize again back to the role that CDC had to support the public health labs. We have built the laboratory capacity throughout our public health labs to monitor for flu and other respiratory viral systems. The platform that does that is the platform of the test that we developed. It wouldn’t have helped us to develop a test in the public health labs, and they have none of the instrumentation. We develop using that platform for public health labs. Platform that the secretary and Dr. Monroe was saying is a high throughput platform, which has been put in most hospitals for HIV, Hepatitis C and so that’s the platform. And as we sit here today, we’re trying to now validate whether the test we made would be validated to use that on that platform? But the private sector is already doing it too. I mean they’re moving now to that rapid throughput platform.
+
+Donald Trump: <33:32>
+And don’t forget these are the people as an example HIV, I talked about it in speeches and other things, HIV free or essentially free within nine years now it’s a ten year process. These are the people that came up with the answers to this stuff that three years ago, four years ago you would’ve said it’s impossible. What they’ve done is incredible and to others also. If you look at what they’ve done with HIV, it’s incredible. Other countries are all calling the same people that you’re dealing with. And honestly, what you should be doing is giving them a lot of credit because this was a very condensed period of time. Even the vaccine, they’re going to have tests done in 90 days that two years ago you were taking two years to do. And their making great progress. It takes a period of time, but they’re making great progress. Other countries are dealing with the same people you’re talking to now and others in this government universe they’re incredible people, and honestly, you should be giving them tremendous credit. They have done a tremendous job.
+
+Donald Trump: <34:35>
+When you mentioned South Korea, they’re dealing with us all the time. When you mentioned Italy they’re dealing with us all the time. We’re working together with China. We’re working together with everybody. But these are great people. These are incredible people, and you shouldn’t be knocking them. You should be praising them. They have done an incredible job already.
+
+Reporters: <34:52>
+Last night you said you had anticipated this kind of thing happening. Do you think that having the office pandemic preparation in the White House that everyone on staff <inaudible 00:35:02>.
+
+Donald Trump: <35:03>
+I just think this is something, Peter, that you can never really think is going to happen. I’ve heard all about this could be a big deal from before it happened. Something like this could happen. I think we’re doing a really good job in this country at keeping it down. We’ve really been very vigilant, and we’ve done a tremendous job at keeping it down. But who would’ve thought, look how long ago is it? Six, seven, eight weeks ago? Who would’ve thought, would he be having this subject? We were going to hit 30,000 on the Dow. Like it was clockwork, right? It was all going, it was right up, and then all of a sudden this came out.
+
+Donald Trump: <35:43>
+All I say is be calm, we have the greatest people in the world. Everyone’s relying on us, the world is relying on us. They’ve done an incredible job in a very condensed period of time. The thing is you never really know when something like this is going to strike and what it’s going to be. This is different than something else. This is a very different thing than something else. So I think they’ve done a great job. And you know what if I didn’t think they did, I’d tell you.
+
+Reporters: <36:06>
+<inaudible 00:00:36:10>.
+
+Donald Trump: <36:11>
+I just don’t think that somebody is going to, without seeing something like we saw something happening in China. As soon as they saw that happening, they essentially, not from the White House, we don’t need a lab in the White House, but they saw something happening. I found it very interesting. They spotted something going on in China. When you see these labs that I just saw, I would love to have them see it if it’s possible, but they spotted something going on in China. They started working on it immediately. Just in case it should come here, and also to help China. I mean if we could find something that’s beneficial, we want to give it to China, like they’re going to want to give it to us. China’s working very closely with us, South Korea, Italy, all of them. They’ve been working very close here, but we’re doing, again 240 and 11 that’s where we are right now.
+
+Reporters: <36:59>
+Mr. President on the numbers, where are we now with the forecast?
+
+Donald Trump: <37:04>
+We don’t have a forecast because we don’t know. We don’t know how many people have this aren’t going to see a doctor, aren’t going to see a hospital. And the higher that number is, the better the number is from the standpoint of death, the death count. They get better without seeing doctors, without seeing the hospitals. So nobody’s marking it down and I think the number is very high. I think that number is much higher, but it never gets reported because they’re not going to hospitals or doctors. The ones that get reported are people that are really sick enough to go to a hospital or to a doctor. So it makes the numbers look worse.
+
+Donald Trump: <37:43>
+We’re prepared for anything, we’re prepared. We are really very highly prepared for anything. And in a short period of time, I mean what they’ve done is very incredible. And I’ve seen what they’ve done back there. It’s really incredible.
+
+Reporters: <37:57>
+Just from a health perspective.
+
+Donald Trump: <37:58>
+And by the way, NIH, what they’ve done, I spent time over there and I like this stuff. My uncle is a great person who was at MIT. He taught at MIT for I think a record number of years. He was a great, super genius. Dr. John Trump. I like this stuff. I really get it. People are surprised that I understand that I understand it. Every one of these doctors said, how do you know so much about this? Maybe I have a natural ability. Maybe I should have done that instead of running for President. But you know what? What they’ve done is very incredible. I understand that whole world. I love that world. I really do. I love that world. And they should be given tremendous credit, and the whole world is relying on us.
+
+Donald Trump: <38:41>
+You hear about you’re saying about South Korea. South Korea’s very much reliant on the information we’re given them, and they’re reliant on the vaccines that we will come up with very soon we’re going to come up. Now it takes a period of time to get them tested and then put into the market. It has to be very safe. You can’t give a vaccine that’s going to be unsafe. It would be a disaster. So that’s where we are and I think these people deserve, all of them, the scientists, the doctors, I think they deserve tremendous credit. I really do.
+
+Reporters: <39:13>
+The vice president went to see the Seattle area yesterday.
+
+Donald Trump: <39:16>
+He did.
+
+Reporters: <39:17>
+And the Governor Inslee. He was very complimentary of Washington’s response. The governor was a little less complimentary of your response.
+
+Donald Trump: <39:24>
+So I told Mike not to be complimentary of the governor because that governor is a snake. Okay. Inslee. And I said, if you’re nice to him, he will take advantage. And I would have said no. Let me just tell you, we have a lot of problems with the governor and the governor of Washington that’s where you have many of your problems. Okay. So Mike may be happy with him, but I’m not. Okay. And he would say that naturally.
+
+Donald Trump: <39:51>
+And as I said last night at the town hall, if we came up with a cure today and tomorrow, everything is gone. And you went up to this governor who is not a good governor by the way. If you went up to this governor and you said to him, how did Trump do? He’d say he did a terrible job. It makes no difference. If we came up with a cure, right now and tomorrow everything ended at eight o’clock tomorrow morning, everything ended. He would say, Trump, did a horrible job. Okay. And I told Mike that would happen. I said, no matter how nice you are, he’s no good. That’s the way I feel. Goodbye. Good luck to CNN.
+
+Reporters: <40:28>
+I have one quick question just for the people who are watching who are concerned and have symptoms. Is it possible or is it a good thing or something that we’re looking into to be able to test people in mass like they’re doing in other countries so that they can just show up and get tested?
+
+Donald Trump: <40:44>
+They’re not testing. They’re sampling people in other countries.
+
+Reporters: <40:46>
+Then their testing.
+
+Donald Trump: <40:48>
+Excuse me. There’s a difference. I heard what he said. They’re sampling people. It’s a drive-by. They give samples. Now can we do that? Yeah, we can do that, but that’s not effective like what we’re doing. We’re doing the whole thing in one stop. They’re doing samples in South Korea. It’s a very different thing. Go ahead. Would you like to say something?
+
+Robert Redfield: <41:06>
+Well, I would just say we’re at a stage in our experience with this virus that we are still deeply focused on control. Some people use the word containment to control. And I said about the important principles of early diagnosis, isolation, and contact rates. And then now with some mitigation strategies, you see in different areas when they’re deciding should we close large gatherings? I think it’s important to use the data and the science that we have. I mean we’re not blind to where this virus is right now in the United States. And we need to focus our resources right now where we know this virus is circulating substantially in the community like certain parts of California, like certain parts of Seattle.
+
+Robert Redfield: <41:57>
+That’s where we need to put our focus. It would not be a service to our ability for our American response. If all of a sudden 20 million Americans that have no evidence of any risks that we’ve looked in those areas really don’t need that. That’s why we are accelerating as the President said our surveillance. I mean we’re going out and really testing people that have flu like symptoms, and we’re going to expand that from the sites we started to the whole nation.
+
+Robert Redfield: <42:24>
+So we’re going to have eyes on this and see. Whoops, this virus has now snuck up into Northern Maine. Whoops, we see it down in Kansas and that information will then be used by doctors to know if someone comes in with an upper respiratory flu, I better think about maybe testing for Coronavirus. So we really want to have the American people to have confidence. It’s not just in CDC, it’s in the public health community of this nation. It’s strong. They’re doing their job. I tell people every time we see a new confirmed case, they should think of that as a success, not a failure because they know their public health community’s out doing their job.
+
+Donald Trump: <43:01>
+The difference is that they’re being proactive. We are being proactive. We’re going out and looking for spots. Nobody else is doing that. Not by leaving samples or anything else. We’re going out and proactively looking to see where there’s a problem. We don’t have to do that, but we’re doing it to see if we can find areas which are trouble spots. I don’t even know if I agree with that. You’ll find out those areas just by sitting back and waiting, but they’re trying to find out before you would normally find out by waiting. And I think that’s great, but that’s what they’re doing.
+
+Donald Trump: <43:36>
+We’re the only country in that sense that’s proactive. We’re totally proactive, and we’re totally equipped to handle it.
+
+Reporters: <43:41>
+Is the strategy shifting from containment to risk mitigation?
+
+Robert Redfield: <43:47>
+So right now you shouldn’t think of it as one or the other. All right. And I’m going to say we need to stay committed to containment. And I still believe containment and control is the goal, but that’s going to be complimented strategically by what we call mitigation or non-pharmaceutical interventions. Like asking churches not to have big gatherings. So in the state of Washington in the last couple of days, they announced their initial mitigation strategies. We’ve been working on mitigation for the whole nation, just in a planning way. But we’ve also have our people buried into the Washington Health Department, the California Health Department, and have them start to develop.
+
+Robert Redfield: <44:29>
+And again, Washington started to operationalize theirs this week. I suspect California will later. We’re going to continue to work on these. And it’s going to be a community by community, community, community strategy. They’re not all going to be the same, but it’s going to be driven by the amount of community transmission that can’t be linked to a contact that can’t be linked to a trip. When you see significant, or we call on-link transmission then you start to have to evaluate the value. So it’s not one versus the other. But this nation should not give up on containment.
+
+Donald Trump: <45:03>
+Okay. Thank you very much. Thank you. Thank you very much.
